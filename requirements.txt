@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+gtts
+python-dotenv
+PyPDF2
+matplotlib
+networkx==3.1
+langchain
+langgraph
+pytesseract  # Optional, for OCR if you want to process images
+
