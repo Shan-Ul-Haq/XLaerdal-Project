@@ -1,4 +1,4 @@
-##**Emergency Dispatch Conversation with AI Feedback**
+## **Emergency Dispatch Conversation with AI Feedback**
 
 ## **Project Overview**
 Laerdal's mission of "helping save lives" inspired this project, which focuses on enhancing emergency dispatcher training through an AI-powered simulator. Dispatchers face immense pressure to make life-saving decisions during emergencies. This Conversational AI prototype acts as a simulator to rehearse critical scenarios and provide evidence-based feedback, helping improve their skills and preparedness.
